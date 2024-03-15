@@ -686,8 +686,8 @@
     "transaction-id": "Transaktions-ID",
     "transition-to-state": "Övergå till {state}",
     "transitioned-payment-to-state-success": "Betaling lyckades övergå till {state}",
-    "transitioned-to-state-success": "Lyckades ändras till {state}",
-    "unable-to-transition-to-state-try-another": "Ordern kunde inte ändras tillbaka till \"{state}\". Vänligen välj en alternativt status.",
+    "transitioned-to-state-success": "Lyckades övergå till {state}",
+    "unable-to-transition-to-state-try-another": "Ordern kunde inte övergå tillbaka till \"{state}\". Vänligen välj en alternativt status.",
     "unfulfilled": "Ej uppfylld",
     "unit-price": "Enhetspris"
   },
